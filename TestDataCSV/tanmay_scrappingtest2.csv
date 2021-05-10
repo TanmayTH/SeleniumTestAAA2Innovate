@@ -1,0 +1,6 @@
+ORIGIN,DESTINATION,CARGOREADYDATE,CONTAINERTYPE,STD20,STD40,HC40,GROSS_WT_LBS,TOTAL_PIECES,VOLUME,commodity,test1,test2,test3,test4,test5,test6,test7,test8,filename
+NLRTM,VNBDU,22-Apr,FCL,2,1,1,5000,10,10,3011100,pass,pass,pass,fail,pass,pass,pass,pass,
+NLRTM,VNTCT,24-Apr,FCL,1,1,1,2000,10,12,3011100,pass,pass,pass,fail,pass,pass,pass,pass,
+NLRTM,VNHCP,26-Apr,FCL,2,0,2,10000,10,12,3011100,pass,pass,pass,fail,pass,pass,pass,pass,
+NLRTM,VNCLI,28-Apr,FCL,1,2,3,5000,100,12,3011100,pass,pass,pass,fail,pass,pass,pass,pass,
+NLRTM,VNTAM,30-Apr,FCL,3,2,0,5000,100,12,3011100,pass,pass,pass,fail,pass,pass,pass,pass,
